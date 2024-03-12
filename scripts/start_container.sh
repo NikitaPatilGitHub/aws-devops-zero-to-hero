@@ -5,4 +5,4 @@ set -e
 docker pull docker pull nikita1008/python-app:latest
 
 # Run the Docker image as a container
-docker run -d -p 5000:5000 docker pull nikita1008/python-app:latest
+docker run -d -p 5000:5000 nikita1008/python-app:latest
