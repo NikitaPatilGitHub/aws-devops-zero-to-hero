@@ -8,3 +8,4 @@ docker pull nikita1008/python-app
 docker run -d -p 8000:8000 nikita1008/python-app
 
 
+
